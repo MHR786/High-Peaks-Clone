@@ -1,0 +1,31 @@
+.img1{
+    padding-top: 10px;
+  
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 2px dashed #FFD2BF ;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+}
+.img2{
+   padding-top: 50px;
+   padding-left: 50px;
+   padding-right: 50px;
+   padding-bottom: 50px;
+    border: 2px dashed #FFD2BF ;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+}
+
+.img3{
+    padding-top: 10px;
+    
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 2px dashed #FFD2BF ;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+}
